@@ -1,0 +1,36 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "Demo app for the FileTreeView component"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "Browse the device file system in a lazy-loading tree"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "FileTreeView Demo"
+    },
+    {
+      "name": "reason_documents_dir",
+      "value": "Browse the files in your Documents folder"
+    },
+    {
+      "name": "reason_download_dir",
+      "value": "Browse the files in your Download folder"
+    },
+    {
+      "name": "reason_desktop_dir",
+      "value": "Browse the files in your Desktop folder"
+    },
+    {
+      "name": "reason_full_disk",
+      "value": "Browse every folder in your user storage, not just Documents and Download"
+    },
+    {
+      "name": "reason_persist_access",
+      "value": "Keep folders you add available after the app restarts"
+    }
+  ]
+}

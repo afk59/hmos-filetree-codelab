@@ -1,0 +1,10 @@
+{
+  "module": {
+    "name": "filetreeview",
+    "type": "har",
+    "deviceTypes": [
+      "2in1",
+      "tablet"
+    ]
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "name": "filetreeview",
+  "version": "1.0.0",
+  "description": "Lazy-loading, file-system-backed tree panel for HarmonyOS NEXT PC/2-in-1.",
+  "main": "Index.ets",
+  "author": "",
+  "license": "Apache-2.0",
+  "dependencies": {}
+}
