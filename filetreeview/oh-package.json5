@@ -1,9 +1,26 @@
 {
-  "name": "filetreeview",
+  "name": "@afk35/filetreeview",
   "version": "1.0.0",
-  "description": "Lazy-loading, file-system-backed tree panel for HarmonyOS NEXT PC/2-in-1.",
+  "description": "Lazy-loading, file-system-backed tree panel for HarmonyOS NEXT. Renders the real device file system as an expandable tree, reading each directory the first time it is opened.",
   "main": "Index.ets",
-  "author": "",
+  "author": {
+    "name": "afk35",
+    "url": "https://github.com/afk59/hmos-filetree-codelab"
+  },
   "license": "Apache-2.0",
+  "homepage": "https://github.com/afk59/hmos-filetree-codelab",
+  "repository": "https://github.com/afk59/hmos-filetree-codelab",
+  "keywords": [
+    "file",
+    "filesystem",
+    "file-tree",
+    "tree",
+    "file-manager",
+    "file-picker",
+    "lazy-loading",
+    "arkui",
+    "2in1",
+    "pc"
+  ],
   "dependencies": {}
 }
